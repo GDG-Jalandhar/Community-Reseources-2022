@@ -36,3 +36,6 @@ Please read [offical docs](https://angular.io/docs) for understanding Angular in
 
 :point_right: [Angular Demo Project with login and Bearer token implementation](https://github.com/simarpreetsinghkalra/ng-demo)<br/>
 :point_right: [Angular Resources Compilation](https://github.com/PatrickJS/awesome-angular)
+
+
+**HAPPY CODING**
