@@ -10,10 +10,10 @@ Machine Learning is the field of study that gives computers the capability to le
 
 |Name                                                 | Link |
 |  :---                                             | :---
-|1. Machine Learning 101| [Watch Playlist](https://www.youtube.com/playlist?list=PLmbh4Mw9r8AFiAbvDaqk6cSNabuNGX6mr) |
-|2. Machine Learning Crash Course by Google Developers|   [MLCC](https://developers.google.com/machine-learning/crash-course)|
-|3. Harvard's Artificial Intelligence with Python|     [CS50](https://cs50.harvard.edu/ai/2020/)|
-|4. TensorFlow ML Curriculum | [TensorFlow Docs](https://www.tensorflow.org/resources/learn-ml)|
+| Machine Learning 101| [Watch Playlist](https://www.youtube.com/playlist?list=PLmbh4Mw9r8AFiAbvDaqk6cSNabuNGX6mr) |
+| Machine Learning Crash Course by Google Developers|   [MLCC](https://developers.google.com/machine-learning/crash-course)|
+| Harvard's Artificial Intelligence with Python|     [CS50](https://cs50.harvard.edu/ai/2020/)|
+| TensorFlow ML Curriculum | [TensorFlow Docs](https://www.tensorflow.org/resources/learn-ml)|
 
 
 ## Youtube Videos
