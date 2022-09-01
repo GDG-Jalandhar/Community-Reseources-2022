@@ -11,7 +11,7 @@ Please read offical [definition](https://nodejs.org/en/about/) and [docs](https:
 ## YouTube Videos
 
 | Title | Link | 
-| :---: | :---: | 
+| :--- | :--- | 
 | Node.js for beginners | [PLAY:arrow_forward:](https://youtu.be/TlB_eWDSMt4) |
 | Node.js & Expressjs full course | [PLAY:arrow_forward:](https://youtu.be/Oe421EPjeBE) |
 | RESTFul APIs in Node.js | [PLAY:arrow_forward:](https://youtu.be/pKd0Rpw7O48) |
@@ -22,7 +22,7 @@ Please read offical [definition](https://nodejs.org/en/about/) and [docs](https:
 ## Blogs
 
 | Title | Link | 
-| :---: | :---: | 
+| :--- | :--- | 
 | Installing Node.js on Linux & MacOS | [Start Reading](https://gist.github.com/d2s/372b5943bce17b964a79) |
 | Using Sequalize with Node.js | [Start Reading](https://www.digitalocean.com/community/tutorials/how-to-use-sequelize-with-node-js-and-mysql) |
 | Using Mongoose with Node.js | [Start Reading](https://medium.com/techtalkers/using-mongodb-and-mongoose-to-develop-full-stack-apps-d8d4289a1068) |
