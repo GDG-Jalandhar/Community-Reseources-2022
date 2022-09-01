@@ -15,7 +15,7 @@ Please read [offical docs](https://angular.io/docs) for understanding Angular in
 ## YouTube Videos
 
 | Title | Link | 
-| :---: | :---: | 
+| :--- | :--- | 
 | Typescript Tutorial | [PLAY:arrow_forward:](https://youtube.com/playlist?list=PLTjRvDozrdlxJjrQ4phZAUmiRn-HbK3M_) |
 | Angular Crash Course | [PLAY:arrow_forward:](https://youtu.be/mqWXRX5fxGQ) |
 | Angular & Firebase Integration | [PLAY:arrow_forward:](https://youtube.com/playlist?list=PLillGF-RfqbaISD5mxDCIjsSYk4jbiXi4) |
@@ -26,7 +26,7 @@ Please read [offical docs](https://angular.io/docs) for understanding Angular in
 ## Blogs
 
 | Title | Link | 
-| :---: | :---: | 
+| :--- | :--- | 
 | Beginner -> Advanced (Angular in Depth) | [Browse Articles](https://medium.com/angular-in-depth) |
 | Better looking code with Formatting and Linting :sunglasses: | [Start Reading](https://itnext.io/configure-prettier-and-eslint-with-angular-e7b4ce979cd8) |
 
