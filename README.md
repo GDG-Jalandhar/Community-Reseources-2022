@@ -11,7 +11,7 @@ Venue: Pyramid College Of Business & Technology, Jalandhar <br>
 ## Resources
 1. [Android](https://github.com/GDG-Jalandhar/Hackathon-Reseources-2022/blob/main/Android-Resources.md) 
 2. [Angular](https://github.com/GDG-Jalandhar/Hackathon-Reseources-2022/blob/main/Angular-Resources.md)
-3. [Google Cloud] (https://github.com/GDG-Jalandhar/Hackathon-Reseources-2022/blob/main/Cloud-Resources.md) 
+3. [Google Cloud](https://github.com/GDG-Jalandhar/Hackathon-Reseources-2022/blob/main/Cloud-Resources.md) 
 4. Flutter
 5. [Firebase](https://github.com/GDG-Jalandhar/Hackathon-Reseources-2022/blob/main/Firebase-Resources.md)
 6. [Ionic](https://github.com/GDG-Jalandhar/Hackathon-Reseources-2022/blob/main/Ionic-Resources.md)
